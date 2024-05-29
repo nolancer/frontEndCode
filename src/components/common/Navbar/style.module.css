@@ -1,0 +1,17 @@
+/* Navbar with no shadow by default */
+.navContainer {
+  position: fixed;
+  background-color: white;
+  box-shadow: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  transition: 0.3s linear;
+}
+
+/* Show shadow on navbar when data-scroll is not zero */
+html:not([data-scroll="0"]) .navContainer {
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}

@@ -1,0 +1,12 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "NoLancer",
+    "url": "https://nolancer.io/",
+    "logo": "https://nolancer.io/logo.png",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "bilalmohib7896@gmail.com",
+        "contactType": "customer service"
+    }
+}
