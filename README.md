@@ -17,7 +17,7 @@ NoLancer is a revolutionary platform that empowers freelancers and clients to co
 
 Follow these steps to get started with the NoLancer front-end:
 
-- **Clone the Repository**: git clone https://github.com/YourUsername/NoLancer-FrontEnd.git
+- **Clone the Repository**: git clone https://github.com/nolancer/frontEndCode.git
 - **Navigate to Project Directory**: cd NoLancer-FrontEnd
 - **Install Dependencies**: npm install
 - **Start the Development Server**: npm run dev
