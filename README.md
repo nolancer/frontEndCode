@@ -53,4 +53,4 @@ Join us in creating a freelance platform that transforms lives. Your skills, ded
 
 Made with ❤️ by the NoLancer Development Team
 
-[NoLancer Front End GitHub Repository](https://github.com/nolancer/frontend)
+[NoLancer Front End GitHub Repository](https://github.com/nolancer/frontEndCode)
